@@ -1,8 +1,5 @@
-### Hi there 👋
 
-<!--
-**IvanDeIvam/IvanDeIvam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h1 align="center">Hi 👋, I'm Ivan Vallejo</h1>
 <h3 align="center">I'm currently studying web development and programming at La Salle Gracia, I don't have many projects but I like to learn new things everyday and improve my programming skills.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandeivam" alt="ivandeivam" /></a> </p>
