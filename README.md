@@ -8,5 +8,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 
-## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanDeIvam&show_icons=true&theme=tokyonight)  
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanDeIvam&show_icons=true&theme=radical)
+
+## 🌐 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDeIvam&layout=compact&theme=tokyonight)
+
+## 📈 Actividad reciente
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanDeIvam&theme=react-dark)
+
