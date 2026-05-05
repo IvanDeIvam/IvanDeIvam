@@ -11,7 +11,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 📈 Actividad reciente
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IvanDeIvam&theme=react-dark)
-
